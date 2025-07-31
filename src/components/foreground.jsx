@@ -10,7 +10,7 @@ const Foreground = () => {
             close:true,
             tag:{isopen:true,tagTitle:"download",tagColor:"green"}
         },
-             {
+        {
             desc:"Whatever is written in this will be displayed.",
             fileSize:".4mb",
             close:true,
